@@ -1,0 +1,15 @@
+{
+    "name": "wbsartori/teste-tags",
+    "autoload": {
+        "psr-4": {
+            "Wbsartori\\TesteTags\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wesley.sartori",
+            "email": "wesley.sartori@ixcsoft.com.br"
+        }
+    ],
+    "require": {}
+}
