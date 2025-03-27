@@ -1,7 +1,7 @@
 {
     "name": "wbsartori/teste-tags",
-    "version": "0.2.0",
-    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "minimum-stability": "alpha",
     "prefer-stable": false,
     "autoload": {
         "psr-4": {
