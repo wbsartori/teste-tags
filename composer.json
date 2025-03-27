@@ -1,6 +1,6 @@
 {
     "name": "wbsartori/teste-tags",
-    "version": "2.0.0-alpha",
+    "version": "2.0.1-alpha",
     "minimum-stability": "alpha",
     "prefer-stable": false,
     "autoload": {
