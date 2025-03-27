@@ -1,5 +1,8 @@
 {
     "name": "wbsartori/teste-tags",
+    "version": "0.1.0-dev",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "Wbsartori\\TesteTags\\": "src/"
